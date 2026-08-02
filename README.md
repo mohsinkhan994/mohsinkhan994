@@ -26,16 +26,16 @@ public class MohsinKhan implements FullStackDeveloper {
     private final String role = "Senior Full-Stack Java Developer";
     private final double experienceYears = 5.6;
     private final String[] focusAreas = {
-        "Microservices Architecture", "AI &amp; LLM Integration",
-        "RAG Systems", "High-Performance Backends"
+            "Microservices Architecture", "AI &amp; LLM Integration",
+            "RAG Systems", "High-Performance Backends"
     };
 
     @Override
     public String[] currentlyBuilding() {
         return new String[] {
-            "🔭 AI-powered document intelligence platforms with hybrid RAG search",
-            "⚡ High-concurrency integration gateways using Java 21 Virtual Threads",
-            "🌱 Real-time systems with Kafka, RabbitMQ &amp; WebSockets"
+                "🔭 AI-powered document intelligence platforms with hybrid RAG search",
+                "⚡ High-concurrency integration gateways using Java 21 Virtual Threads",
+                "🌱 Real-time systems with Kafka, RabbitMQ &amp; WebSockets"
         };
     }
 
@@ -108,7 +108,13 @@ public class MohsinKhan implements FullStackDeveloper {
 
 <br/>
 
-## 🏆 Featured Projects
+## 🏆 Professional Highlights
+
+<div align="center">
+<sub>These are production systems built for employers — closed-source, so you won't find them as repos below. Scroll down for actual public repositories 👇</sub>
+</div>
+
+<br/>
 
 <div align="center">
 
