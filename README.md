@@ -159,23 +159,6 @@ Full-stack production websites (GIBAR, USR) built end-to-end — from React fron
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=mohsinkhan994&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohsinkhan994&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=mohsinkhan994&amp;theme=tokyonight&amp;hide_border=true" />
-
-</div>
-
-<br/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
