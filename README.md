@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=1F3A5F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+microservices+%E2%9A%A1;Shipping+AI-powered+RAG+platforms+%F0%9F%A4%96;5%2B+years+turning+coffee+into+code+%E2%98%95;Java+21+%7C+Kotlin+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=1F3A5F&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+microservices+%E2%9A%A1;Shipping+AI-powered+RAG+platforms+%F0%9F%A4%96;5%2B+years+turning+coffee+into+code+%E2%98%95;Java+21+%7C+Python+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
 
 </div>
 
@@ -157,6 +157,13 @@ Full-stack production websites (GIBAR, USR) built end-to-end — from React fron
 </tr>
 </table>
 
+</div>
+
+<div align="center">
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohsinkhan994&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ## 🤝 Let's Connect
