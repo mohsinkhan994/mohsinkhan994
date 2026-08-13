@@ -182,7 +182,7 @@ Full-stack production websites (GIBAR, USR) built end-to-end — from React fron
 
 <br/><br/>
 
-💡 *"Code is like humor. When you have to explain it, it's bad."* — always striving for the former.
+💡 *"Code is like humor. When you have to explain it, it's bad"* — always striving for the former.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1F3A5F&amp;height=100&amp;section=footer" width="100%"/>
 
